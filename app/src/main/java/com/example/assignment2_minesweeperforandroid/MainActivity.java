@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        System.out.print("My First Commit As Project Now Opened");
+        System.out.print("My First Commit As Project Now Opened - Stephen");
     }
 }
